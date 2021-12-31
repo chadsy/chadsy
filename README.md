@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+I like software. I like making it. I like using it. I like helping other people who like software use it better, stronger, faster.
+
+Other stuff is generally linked [from here](https://chadsy.github.io).
+
+## How to use chadsy
+
+## Troubleshooting chadsy
+
+## Uninstalling chadsy
 
 <!--
 **chadsy/chadsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
