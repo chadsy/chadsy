@@ -1,10 +1,26 @@
-## Hi there 👋
+## hello there 👋
 
-I like software. I like making it. I like using it. I like helping other people use it better, stronger, faster. I like to ship it.
+![](/assets/favicon.ico)
 
-:ship: :it:
+I'm Chad Royal, a (ahem) seasoned survivor of many teams & technologies.
 
-Other stuff is generally linked [from here](https://chadsy.lol).
+### some things I'm enthusiastic about:
+* The Developer Experience
+* C & C++
+* Development toolchains
+* Pragmatism in team processes & policies
+* Random & varied open source projects
+* Shipping software
+* Assembly language
+
+### some things I'm starting to explore:
+* Processor & peripheral emulation
+* Embedded systems
+* Rust & golang
+* Retro computing & old CPUs
+* Brushing up on the latest C++ standards
+
+I write things down at [chadsy.lol](https://chadsy.lol)
 
 <!--
 **chadsy/chadsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
