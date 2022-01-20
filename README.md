@@ -1,6 +1,6 @@
 ## hello there 👋
 
-![](/assets/favicon.ico)
+![](/favicon.ico)
 
 I'm Chad Royal, a (ahem) seasoned survivor of many teams & technologies.
 
