@@ -2,37 +2,22 @@
 
 ![](/favicon.ico)
 
-I'm Chad Royal, a (ahem) seasoned survivor of many teams & technologies.
+I'm Chad Royal, a (ahem) seasoned survivor of many teams & technologies. I plop down my code here, and plop down my words at [chadsy.lol](https://chadsy.lol).
 
 ### some things I'm enthusiastic about:
-* The Developer Experience
+* The Developer Experience :tm:
 * C & C++
 * Development toolchains
 * Pragmatism in team processes & policies
 * Random & varied open source projects
 * Shipping software
 * Assembly language
+* iOS app development
 
-### some things I'm starting to explore:
+### some things I'm exploring:
+* Intel 4004 in-circuit emulator
+* Rust & golang
 * Processor & peripheral emulation
 * Embedded systems
-* Rust & golang
-* Retro computing & old CPUs
+* Retro computing & single-board-computers
 * Brushing up on the latest C++ standards
-
-I write things down at [chadsy.lol](https://chadsy.lol)
-
-<!--
-**chadsy/chadsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
