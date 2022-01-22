@@ -2,8 +2,9 @@
 
 ![](/favicon.ico)
 
-I'm Chad Royal, a (ahem) seasoned survivor of many teams & technologies. I plop down my code here, and plop down my words at [chadsy.lol](https://chadsy.lol).
+I'm Chad Royal, a (ahem) seasoned survivor of many teams & technologies. I plop down my code here, and plop down my words and other bits at [chadsy.lol](https://chadsy.lol).
 
+<!--
 | ***some things I'm enthusiastic about*** | ***some things I'm exploring*** |
 | --- | --- |
 | The Developer Experience :tm:            | Intel 4004 in-circuit emulator |
@@ -14,7 +15,7 @@ I'm Chad Royal, a (ahem) seasoned survivor of many teams & technologies. I plop 
 | Shipping software                        | Brushing up on the latest C++ standards |
 | Assembly language                        | Writing code every day as a code kata |
 | iOS app development                      | A big backlog of random stuff |
-
+ -->
 <!-- ### some things I'm enthusiastic about:
 * The Developer Experience :tm:
 * C & C++
