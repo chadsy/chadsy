@@ -1,6 +1,6 @@
 ## hello there 👋
 
-![](/favicon.ico)
+![](/img/favicon.ico)
 
 I'm Chad Royal, a (ahem) seasoned survivor of many teams & technologies. I plop down my code here, and plop down my words and other bits at [chadsy.lol](https://chadsy.lol).
 
